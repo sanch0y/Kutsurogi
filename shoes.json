@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "ナイキ",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "コンバース",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe2.1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "タクティカルブーツ",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe7.1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "ジョーダン",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe6.1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "アディダス",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "プマ",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe17.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "アディダススニーカー",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe15.1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "アンダーアーマー",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/shoe18.jpg" } } }
+      }
+    }
+  ]
+}
